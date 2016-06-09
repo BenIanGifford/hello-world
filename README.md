@@ -1,3 +1,3 @@
 # hello-world
-hello
-i am editing because i actuly can because i downloaded iceweasel
+Hello I am editing because i actully can because i downloaded iceweasel altough
+this is no longer true because i am using git
